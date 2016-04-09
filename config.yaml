@@ -12,6 +12,8 @@ writeKey: M5FMIxFI3HXPl3vQp0aw2toQYSyRTgKb
 
 name: Becky Jaimes
 role: Data Sommelier
+bio: "[Data Sommelier](https://www.datasomelier.com) Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
 
 #
 # Social.
@@ -19,3 +21,4 @@ role: Data Sommelier
 
 twitter: 
 github: TheBecky
+email: becky@datasommelier.com
